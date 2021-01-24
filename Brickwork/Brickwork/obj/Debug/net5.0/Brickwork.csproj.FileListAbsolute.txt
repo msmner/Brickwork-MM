@@ -1,0 +1,16 @@
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\Brickwork.exe
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\Brickwork.deps.json
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\Brickwork.runtimeconfig.json
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\Brickwork.runtimeconfig.dev.json
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\Brickwork.dll
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\ref\Brickwork.dll
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\bin\Debug\net5.0\Brickwork.pdb
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.AssemblyInfoInputs.cache
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.AssemblyInfo.cs
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.csproj.CoreCompileInputs.cache
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.dll
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\ref\Brickwork.dll
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.pdb
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.genruntimeconfig.cache
+C:\Users\msmner\Desktop\MM assignment\Brickwork\Brickwork\obj\Debug\net5.0\Brickwork.csprojAssemblyReference.cache
