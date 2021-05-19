@@ -1,6 +1,4 @@
-This is an assignment given to me by MentorMate as part of an application for an internship.
-
-It is basically this:
+The task is as follows:
 The builders must cover a rectangular area of size M x N (M and N are even numbers) with two layers of bricks that are rectangles of size 1 x 2.
 The first layer of the bricks has already been completed. The second layer (in an effort to make the brickwork really strong)
 must be created in a way that no brick in it lies exactly on a brick from the first layer. However, it is allowed half of the same brick
